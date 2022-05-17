@@ -1,2 +1,3 @@
 This is text2. 
-It is about me, Rakib
+It is about me, Rakib.
+I am studying in KUET.
